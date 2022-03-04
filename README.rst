@@ -13,12 +13,15 @@ Installationon Debian/Ubuntu
 
 
 Start on Debian/Ubuntu
-----------------------------
+----------------------
 
 ::
 
   sudo python3 RandB_Game.py
-
+Game
+----
 .. image:: https://github.com/PiotrOchal/Red-Blue-Square-Game/blob/main/RB_game.png
     :alt: Image
-![Image](https://github.com/PiotrOchal/Red-Blue-Square-Game/blob/main/RB_game.png "icon")
+
+.. image:: https://github.com/PiotrOchal/Red-Blue-Square-Game/blob/main/RB_start.png
+    :alt: Image
