@@ -4,8 +4,8 @@ arcade game
 
 
 
-Installationon Debian/Ubuntu
-----------------------------
+Installation on Debian/Ubuntu
+-----------------------------
 
 ::
 
