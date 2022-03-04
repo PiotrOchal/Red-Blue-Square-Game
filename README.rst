@@ -1,8 +1,10 @@
 # Red-Blue-Square-Game
 # arcade game
 
+Installation on Windows
+-----------------------
 
-
+download Deploy_1.0.exe and onpen it
 
 Installation on Debian/Ubuntu
 -----------------------------
