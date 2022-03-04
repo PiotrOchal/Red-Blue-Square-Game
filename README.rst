@@ -30,7 +30,7 @@ Start window with instruction:
 .. image:: https://github.com/PiotrOchal/Red-Blue-Square-Game/blob/main/RB_start.png
     :alt: Image
     
-Playing view:
+Gameplay:
 
 .. image:: https://github.com/PiotrOchal/Red-Blue-Square-Game/blob/main/RB_game.png
     :alt: Image
