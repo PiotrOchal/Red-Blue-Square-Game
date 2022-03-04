@@ -20,8 +20,14 @@ Start on Debian/Ubuntu
   sudo python3 RandB_Game.py
 Game
 ----
+If you touch red square, squares will be smaller.
+If you touch very small red squares, squares will be much bigger but blue square will be faster.
+
+Start:
+.. image:: https://github.com/PiotrOchal/Red-Blue-Square-Game/blob/main/RB_start.png
+    :alt: Image
+Playing view:
 .. image:: https://github.com/PiotrOchal/Red-Blue-Square-Game/blob/main/RB_game.png
     :alt: Image
 
-.. image:: https://github.com/PiotrOchal/Red-Blue-Square-Game/blob/main/RB_start.png
-    :alt: Image
+
