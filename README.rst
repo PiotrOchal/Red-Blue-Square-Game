@@ -4,7 +4,7 @@
 Installation on Windows
 -----------------------
 
-download Deploy_1.0.exe and onpen it
+download Deploy_1.0.exe and open it
 
 Installation on Debian/Ubuntu
 -----------------------------
