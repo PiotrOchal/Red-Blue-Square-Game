@@ -38,7 +38,7 @@ blue= (0, 128, 255)
 
 #text 
 font = pygame.font.SysFont(None, 24)
-img = font.render('follow red square, use "WASD" or arows, to reset press "R", to quit press "Q",', True, (255,255,255))
+img = font.render('follow red square, use "WASD" or arows, to reset press "R", to quit press "Q"', True, (255,255,255))
 s1_img= font.render('to start press "SPACE"', True, (255,255,255))
 font = pygame.font.SysFont(None, 36) 
 s2_img=  font.render('Red & Blue Square Game', True, (255,255,255))
