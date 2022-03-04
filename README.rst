@@ -8,11 +8,11 @@ Installationon Debian/Ubuntu
 ----------------------------
 
 ::
-git clone https://github.com/PiotrOchal/Red-Blue-Square-Game.git
+  git clone https://github.com/PiotrOchal/Red-Blue-Square-Game.git
 
 
 Start on Debian/Ubuntu
 ----------------------------
 
 ::
-sudo python3 RandB_Game.py
+  sudo python3 RandB_Game.py
