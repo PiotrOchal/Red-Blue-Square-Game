@@ -45,7 +45,7 @@ Game
 ----
 If you touch red square, squares will be smaller.
 If you touch very small red squares, squares will be much bigger but blue square will be faster.
-Dont touch white squares. 
+Don't touch white squares. 
 
 
 Gameplay version1:
