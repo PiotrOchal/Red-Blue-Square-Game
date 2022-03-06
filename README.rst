@@ -11,10 +11,12 @@ Version 1 has white square, if you touch it is game over
 Installation on Windows
 -----------------------
 
-For version 0
+For version 0:
+
 download Deploy_1.0.exe and open it
 
-For version 1
+For version 1:
+
 download RBv1.rar and find  RBv1.exe and open it
 
 Installation on Debian/Ubuntu
