@@ -26,7 +26,8 @@ for version 0:
 
   sudo python3 RandB_Game.py
   
-  for version 1:
+for version 1:
+
 ::
 
   sudo python RBGameV1.py
