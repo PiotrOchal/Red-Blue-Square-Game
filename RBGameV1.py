@@ -2,7 +2,6 @@
 #created by Piotr Ochal
 #based on https://www.javatpoint.com/pygame
 
-
 #liblaries 
 import sys
 import pygame
