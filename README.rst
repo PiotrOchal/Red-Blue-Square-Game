@@ -45,13 +45,22 @@ Game
 ----
 If you touch red square, squares will be smaller.
 If you touch very small red squares, squares will be much bigger but blue square will be faster.
+Dont touch white squares. 
 
-Start window with instruction:
+
+Gameplay version1:
+
+.. image:: https://github.com/PiotrOchal/Red-Blue-Square-Game/blob/main/RBv1.png
+    :alt: Image
+
+Start menu with instruction, version 0:
 
 .. image:: https://github.com/PiotrOchal/Red-Blue-Square-Game/blob/main/RB_start.png
     :alt: Image
     
-Gameplay:
+
+
+Gameplay version0:
 
 .. image:: https://github.com/PiotrOchal/Red-Blue-Square-Game/blob/main/RB_game.png
     :alt: Image
