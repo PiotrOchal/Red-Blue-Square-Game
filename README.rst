@@ -2,6 +2,7 @@
 # arcade game
 Version 1 vs version 0
 ----------------------
+
 Version 1 has white square, if you touch it is game over 
 
 
