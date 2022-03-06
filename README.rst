@@ -4,7 +4,11 @@
 Installation on Windows
 -----------------------
 
+for version 0
 download Deploy_1.0.exe and open it
+
+for version 1
+download RBv1.rar and find  RBv1.exe and open it
 
 Installation on Debian/Ubuntu
 -----------------------------
@@ -16,10 +20,17 @@ Installation on Debian/Ubuntu
 
 Start on Debian/Ubuntu
 ----------------------
+for version 0:
 
 ::
 
   sudo python3 RandB_Game.py
+  
+  for version 1:
+ 
+ ::
+
+  sudo python RBGameV1.py
 Game
 ----
 If you touch red square, squares will be smaller.
