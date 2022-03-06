@@ -17,7 +17,7 @@ download Deploy_1.0.exe and open it
 
 For version 1:
 
-download RBv1.rar and find  RBv1.exe and open it
+download RBv1.exe and open it
 
 Installation on Debian/Ubuntu
 -----------------------------
