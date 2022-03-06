@@ -1,4 +1,4 @@
-#Red & Blue Square Game
+#Red & Blue Square Game version 1
 #created by Piotr Ochal
 #based on https://www.javatpoint.com/pygame
 
