@@ -1,5 +1,7 @@
 # Red-Blue-Square-Game
+
 # arcade game
+
 Version 1 vs version 0
 ----------------------
 
