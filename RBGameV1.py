@@ -198,5 +198,4 @@ while not done:  #game
 		
 	sleep=2*sleeptime/(r%10+1)#time wait to next move
 	time.sleep(sleep)#wait to next press
-	print(str(sleep))
 	pygame.display.flip()  
