@@ -1,13 +1,17 @@
 # Red-Blue-Square-Game
 # arcade game
+Version 1 vs version 0
+----------------------
+Version 1 has white square, if you touch it is game over 
+
 
 Installation on Windows
 -----------------------
 
-for version 0
+For version 0
 download Deploy_1.0.exe and open it
 
-for version 1
+For version 1
 download RBv1.rar and find  RBv1.exe and open it
 
 Installation on Debian/Ubuntu
@@ -20,13 +24,13 @@ Installation on Debian/Ubuntu
 
 Start on Debian/Ubuntu
 ----------------------
-for version 0:
+For version 0:
 
 ::
 
   sudo python3 RandB_Game.py
   
-for version 1:
+For version 1:
 
 ::
 
