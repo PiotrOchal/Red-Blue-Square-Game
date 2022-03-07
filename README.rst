@@ -49,7 +49,7 @@ For version 1:
   sudo python RBGameV1.py
   
   
- For version 1a:
+For version 1a:
 
 ::
 
