@@ -4,8 +4,13 @@
 
 # arcade game
 
-Version 1 vs version 0
-----------------------
+Version 1a 
+----------
+
+Version 1a has difficulty levels(easy, medium, hard), 3 lives(if you touch white block, you lose life), to pause press p.
+
+Version 1 
+---------
 
 Version 1 has white square, if you touch it is game over. 
 
