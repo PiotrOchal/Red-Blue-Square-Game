@@ -48,6 +48,12 @@ For version 1:
 
   sudo python RBGameV1.py
   
+ For version 1a:
+
+::
+
+  sudo python RBV1a.py
+  
 Game
 ----
 If you touch red square, squares will be smaller.
