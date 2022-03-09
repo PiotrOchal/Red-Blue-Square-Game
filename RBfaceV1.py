@@ -65,16 +65,16 @@ def wsquare(sized,d):
 	else:s=int(random.uniform(1, 4))
 	if s ==1:
 		sx=random.uniform(size+100, x_max-size-100)
-		sy=-size
+		sy=1-size
 	elif s ==2:
 		sx=random.uniform(size+100, x_max-size-100)
-		sy=-y_max	
+		sy=y_max-1	
 	elif s ==3:
 		sy=random.uniform(size+100, y_max-size-100)
-		sx=-size
+		sx=1-size
 	elif s ==4:
 		sy=random.uniform(size+100, y_max-size)
-		sx=-x_max
+		sx=x_max-1
 	else:
 		sy=random.uniform(100, y_max-size-100)
 		sx=random.uniform(100, x_max-size-100)
