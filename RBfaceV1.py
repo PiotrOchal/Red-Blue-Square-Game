@@ -192,6 +192,7 @@ while not done:  #game
 		p,px,py=wsquare(size,dynamic)
 	elif(px<-size or py<-size or px>x_max or py>y_max):
 		p,px,py=wsquare(size,dynamic)
+		size=size+10
 	else: px,py=wsp(p,px,py,r+1)
 	
 	playtime=str(time.time() - t0)#chek time
