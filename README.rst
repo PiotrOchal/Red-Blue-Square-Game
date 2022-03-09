@@ -60,7 +60,7 @@ For version 1a:
 
   sudo python RBV1a.py
   
- For face version:
+For face version:
 
 ::
 
