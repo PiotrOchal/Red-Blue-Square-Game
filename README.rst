@@ -4,6 +4,11 @@
 
 # arcade game
 
+Face version
+----------
+
+Is like version 1a easy, but use face to control blue box, two mode of red box(static and dynamic).
+
 Version 1a 
 ----------
 
@@ -54,6 +59,12 @@ For version 1a:
 ::
 
   sudo python RBV1a.py
+  
+ For face version:
+
+::
+
+  sudo python RBfaceV1.py
   
 Game
 ----
