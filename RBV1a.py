@@ -46,13 +46,13 @@ def wsquare(size):
 		sy=-size
 	elif s ==2:
 		sx=random.uniform(size, x_max-size)
-		sy=-y_max	
+		sy=y_max
 	elif s ==3:
 		sy=random.uniform(size, y_max-size)
 		sx=-size
 	elif s ==4:
 		sy=random.uniform(size, y_max-size)
-		sx=-x_max
+		sx=x_max
 	return s, sx, sy, size
 #change position white square	
 def wsp(w,wx,wy):
