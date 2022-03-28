@@ -4,6 +4,11 @@
 
 # arcade game
 
+Circle version
+--------------
+
+Circles and better white AI.
+
 Face version
 ----------
 
