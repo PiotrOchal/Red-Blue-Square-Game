@@ -11,7 +11,7 @@ import time
 import random 
 import numpy as np
 
-pygame.display.set_caption('Red & Blue Square Game')#name of window
+pygame.display.set_caption('Red & Blue Circle Game')#name of window
 #wndow size
 x_max=800
 y_max=600
